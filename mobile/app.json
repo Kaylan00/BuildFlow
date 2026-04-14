@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "BuildFlow",
+    "slug": "buildflow",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "buildflow",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": false,
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#0F172A"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.buildflow.app"
+    },
+    "android": {
+      "package": "com.buildflow.app",
+      "adaptiveIcon": {
+        "backgroundColor": "#0F172A"
+      }
+    },
+    "web": {
+      "bundler": "metro"
+    },
+    "extra": {
+      "apiUrl": "http://localhost:3333/api"
+    },
+    "plugins": ["expo-image-picker"]
+  }
+}
