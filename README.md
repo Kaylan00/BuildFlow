@@ -1,3 +1,4 @@
+<img width="489" height="949" alt="image" src="https://github.com/user-attachments/assets/02e2b8cb-d9d3-4cda-91c3-4b7d7e8cd4ff" />
 # BuildFlow
 
 Aplicativo mobile completo de **gestão de obras** — frontend React Native (Expo) + backend Node/Express com persistência em JSON. Arquitetura de produto real, pronto para portfólio.
